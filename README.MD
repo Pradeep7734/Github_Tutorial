@@ -100,6 +100,17 @@ Second way to raise the PR:
 1. Merge Conflict:- An event that takes place when Git is unable to automatically resolve differences in code
                     between two commits when you have same change in the file.
    Command:- There is no command for this.
+
+
+# Git Reset Changes
+
+1. After add:- Used to reset the changes after the git add command
+   Command:- git reset <file name>
+   Command to reset all:- git reset
+
+
+2. After commit:- Used to reset the changes after the git commit command
+   Command:- git reset HEAD~1
    
 
 
