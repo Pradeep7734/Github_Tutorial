@@ -89,7 +89,7 @@ Second way to raise the PR:
 
 # Git Pull Command
 
-1. Pull Request:- It is used to fetch and download content from a remote repo and immediately update the local repo
+1. Pull:- It is used to fetch and download content from a remote repo and immediately update the local repo
                   to match that content.
    Command:- git pull origin main
 
