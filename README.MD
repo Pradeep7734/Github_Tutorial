@@ -108,7 +108,6 @@ Second way to raise the PR:
    Command:- git reset <file name>
    Command to reset all:- git reset
 
-
 2. After commit:- Used to reset the changes after the git commit command
    Command for one commit:- git reset HEAD~1
    Command for many commit:- git reset <- commit hash ->
