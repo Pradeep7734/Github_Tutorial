@@ -82,5 +82,8 @@ There are two ways:
 2. Merge:- To merge out changes with the specific branch
    Command: git merge <branch name>
 
+Second way to raise the PR:
+
+1. PR (PULL REQUEST):- It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 
