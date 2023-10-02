@@ -112,11 +112,3 @@ Second way to raise the PR:
    Command for one commit:- git reset HEAD~1
    Command for many commit:- git reset <- commit hash ->
    Command for many commit:- git reset --hard <- commit hash ->
-
-
-
-
-3. ab me todhi bk chodi krunga idhr
-
-
-
