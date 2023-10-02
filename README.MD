@@ -111,6 +111,5 @@ Second way to raise the PR:
 
 2. After commit:- Used to reset the changes after the git commit command
    Command:- git reset HEAD~1
-   
 
 
