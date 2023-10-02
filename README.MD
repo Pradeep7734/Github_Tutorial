@@ -14,7 +14,7 @@ git config --global user.email "github user email"
 git config --list
 
 
-# Git Commands
+# Common Git Commands
 
 1. Clone:- To clone any repo to the local machine. 
    Command:- git clone <git url>
@@ -26,7 +26,7 @@ git config --list
    Command:- git add <file name>
    For all files at the same time use :- git add . 
 
-4. Commint:- It is the record of change.
+4. Commit:- It is the record of change.
    Command:- git commit -m "some message"
 
 5. Push:- Upload local repo content to remote repo.
@@ -34,6 +34,9 @@ git config --list
 
 6. Branch:- To check on which branch we are.
    Command:- git branch
+
+7. Rename Branch:- To change the branch name.
+   Command:- git branch -M <branch name>
 
 
 
@@ -49,5 +52,38 @@ git config --list
    Command:- git remote -v
 
 
+
+# Git Branch Commands
+
+1. Branch:- To check on which branch we are.
+   Command:- git branch
+
+2. Rename Branch:- To change the branch name.
+   Command:- git branch -M <branch name>
+
+3. Create Branch:- To create a new branch.
+   Command:- git checkout -b <new branch name>
+
+4. Change Branch:- To shift from one branch to another.
+   Command:- git checkout <branch name>
+
+5. Delete Branch:- To delete a branch. But you should be on another branch.
+   Command:- git branch -d <branch name>
+
+
+
+# Git Merge Command
+
+There are two ways:
+
+1. Difference:- To check the difference in data in between the branches.
+   Command: git diff <branch name>
+
+2. Merge:- To merge out changes with the specific branch
+   Command: git merge <branch name>
+
+Second way to raise the PR:
+
+1. PR (PULL REQUEST):- It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 
