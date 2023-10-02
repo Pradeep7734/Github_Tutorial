@@ -113,7 +113,4 @@ Second way to raise the PR:
    Command:- git reset HEAD~1
 
 
-3. ab me todhi bk chodi krunga idhr
-
-
 
