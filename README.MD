@@ -110,7 +110,10 @@ Second way to raise the PR:
 
 
 2. After commit:- Used to reset the changes after the git commit command
-   Command:- git reset HEAD~1
+   Command for one commit:- git reset HEAD~1
+   Command for many commit:- git reset <- commit hash ->
+   Command for many commit:- git reset --hard <- commit hash ->
+
 
 
 
