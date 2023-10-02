@@ -93,6 +93,12 @@ Second way to raise the PR:
                   to match that content.
    Command:- git pull origin main
 
- 
+
+
+# Git Merge Conflict Command
+
+1. Merge Conflict:- An event that takes place when Git is unable to automatically resolve differences in code
+                    between two commits when you have same change in the file.
+   
 
 
