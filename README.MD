@@ -87,3 +87,12 @@ Second way to raise the PR:
 1. PR (PULL REQUEST):- It lets you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 
+# Git Pull Command
+
+1. Pull:- It is used to fetch and download content from a remote repo and immediately update the local repo
+                  to match that content.
+   Command:- git pull origin main
+
+ 
+
+
